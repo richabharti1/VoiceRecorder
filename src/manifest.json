@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "mv3-parcel-webext-template",
+  "name": "Voice Recorder Extension",
   "description": "Extension Description",
   "version": "0.0.0",
   "icons": {
@@ -19,5 +19,5 @@
   "action": {
     "default_popup": "popup/index.html"
   },
-  "permissions": []
+  "permissions": ["activeTab"]
 }

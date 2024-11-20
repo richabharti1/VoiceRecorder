@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-color: #292a2d;
+    background-color: 'white';
     color: #ffffff;
-    margin: 20px;
+    padding: 20px;
+    /*border:1px black solid;*/
 }
